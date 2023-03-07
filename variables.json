@@ -1,0 +1,9 @@
+{
+    "PROJECT_ID": "datafellowship-379510",
+    "GCS_TEMP_LOCATION": "gs://de-ses1",
+    "BUCKET_NAME": "de-ses1",
+    "ALL_KEYWORDS_BQ_OUTPUT_TABLE": "datafellowship-379510.ses1.ALL_KEYWORDS_BQ_OUTPUT_TABLE",
+    "GCS_STG_LOCATION": "gs://asia-southeast1-cloudflw-7dec427a-bucket",
+    "MOST_SEARCHED_KEYWORDS_BQ_OUTPUT_TABLE": "datafellowship-379510.ses1.MOST_SEARCHED_KEYWORDS_BQ_OUTPUT_TABLE",
+    "EVENTS_BQ_TABLE": "datafellowship-379510.ses1.EVENTS_BQ_TABLE"
+  }
